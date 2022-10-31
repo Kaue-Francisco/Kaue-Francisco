@@ -1,7 +1,7 @@
 <b><h1 align="center">Oi 👋, Eu sou Kauê</h1></b><br>
 
 <p align="center">
-    <img width="500" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif">
+    <img width="600" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif">
 </p><br>
 
 <div align="center">
