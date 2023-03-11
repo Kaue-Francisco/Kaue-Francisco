@@ -12,8 +12,8 @@
 </div>
 
 ## 👨‍💻 Sobre mim:
-<p>Tenho 17 anos e sou estudante do Curso Técnico de Desenvolvimento de Sistemas nas ETEC de São José dos Campos.<br>
-Tive meu primeiro contato com o mundo da programação em 2019 com a linguagem Python com o famoso Gustavo Guanabara. Desde então pesquisei muito sobre áreas em que eu poderia atuar no futuro, me interessei com a área de cybersecurity. Desde então atualmente estudo tudo no geral, programação web, mobile, banco de dados. E futuramente quero me especializar na área de cybersecurity.
+<p>Tenho 18 anos e sou estudante do Curso Técnico de Desenvolvimento de Sistemas nas ETEC de São José dos Campos.<br>
+Tive meu primeiro contato com o mundo da programação em 2019 com a linguagem Python com o famoso Gustavo Guanabara. Desde então pesquisei muito sobre áreas em que eu poderia atuar no futuro, me interessei com a área de cybersecurity. Desde então atualmente estou no 3° semestre do Ténico. E futuramente quero me especializar na área de cybersecurity.
 </p>
 
 ## <b>O que eu estou aprendendo👇</b>
