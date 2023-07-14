@@ -1,7 +1,7 @@
 <b><h1 align="center">Oi 👋, Eu sou Kauê</h1></b><br>
 
 <p align="center">
-    <img width="690" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif">
+    <img width="750" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif">
 </p><br>
 
 <div align="center">
@@ -12,8 +12,8 @@
 </div>
 
 ## 👨‍💻 Sobre mim:
-<p>Tenho 18 anos e sou estudante do Curso Técnico de Desenvolvimento de Sistemas nas ETEC de São José dos Campos.<br>
-Tive meu primeiro contato com o mundo da programação em 2019 com a linguagem Python com o famoso Gustavo Guanabara. Desde então pesquisei muito sobre áreas em que eu poderia atuar no futuro, me interessei pela área de cybersecurity. Atualmente estou no 3° semestre do Ténico. E futuramente quero me especializar na área de cybersecurity.
+<p>Tenho 18 anos e sou estudante do Curso Superior Tecnólogo de Desenvolvimento de Software Multiplataforma na FATEC de São José dos Campos e também sou Técnico em Desenvolvimento de Sistemas.<br>
+Tive meu primeiro contato com o mundo da programação em 2019 com a linguagem Python com o famoso Gustavo Guanabara. Desde então pesquisei muito sobre áreas em que eu poderia atuar no futuro, me interessei pela área de cybersecurity. Atualmente estou no 1° semestre do Tecnólogo. E futuramente quero me especializar na área de cybersecurity.
 </p>
 
 ## <b>O que eu estou aprendendo👇</b>
