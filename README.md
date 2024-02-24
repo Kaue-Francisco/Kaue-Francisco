@@ -7,7 +7,7 @@
 <br>
 
 ### 👨‍💻 <b>About me:</b>
-<p> I'm Kauê Francisco, a student Multi-plataform Software Development and a software developer interested in Computer Vision, Artificial Intelligence and Cybersecurity. </p>
+<p> I'm Kauê Francisco, a Multi-plataform Software Development student and a software developer interested in Computer Vision, Artificial Intelligence and Cybersecurity. </p>
 
 <br>
 
@@ -42,7 +42,7 @@
 <br>
 
 ### <b>📫 How to Reach Me</b>
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](linkedin.com/in/kauê-francisco-3b13aa255)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kauê-francisco-3b13aa255)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:kauesantos.francisco@gmail.com)
 
 <br>
